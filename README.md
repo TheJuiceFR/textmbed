@@ -1,6 +1,6 @@
 # textmbed
 
-a program for embedding text into other text, using unicode's invisible characters.
+a program for embedding secret text into other text, using unicode's invisible characters.
 
 by The Juice
 
